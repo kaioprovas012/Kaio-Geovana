@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(to right, #1e1e2f, #292940);
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: #2a2a3d;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px #00000055;
+}
+
+h1 {
+  color: #ff69b4;
+  margin-bottom: 25px;
+}
+
+.video-box {
+  margin-bottom: 20px;
+  border: 2px solid #ff69b4;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.lyrics blockquote {
+  font-size: 1.1em;
+  line-height: 1.6em;
+  color: #ffdce0;
+  margin: 20px auto;
+  background-color: #1f1f2f;
+  padding: 15px;
+  border-left: 5px solid #ff69b4;
+}
+
+.homenagem {
+  margin-top: 25px;
+  font-size: 1.05em;
+  color: #d0d0ff;
+}
